@@ -51,7 +51,7 @@ Publication       {#publication}
 <table cellspacing="0" cellpadding="0">
  <tr>
     <td><img class="work-img" src="../images/conddetr.png"></td>
-    <td width="68%"><div>
+    <td width="68%">
             <u>Depu Meng</u>*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
             <br>
             <strong>Conditional DETR for Fast Training Convergence</strong>
@@ -60,11 +60,11 @@ Publication       {#publication}
             <br>
             [<a href="https://arxiv.org/abs/2108.06152" target="_blank">Paper</a>] [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
             <br>
-        </div></td>
+        </td>
  </tr>
  <tr>
     <td><img class="work-img" src="../images/conic.png"></td>
-    <td width="68%"><div>
+    <td width="68%">
             <u>Depu Meng</u>, Zigang Geng, Zhirong Wu, Bin Xiao, Houqiang Li and Jingdong Wang
             <br>
             <strong>Consistent Instance Classification for Unsupervised Representation Learning</strong>
@@ -73,11 +73,11 @@ Publication       {#publication}
             <br>
             [<a href="https://sslad2021.github.io/files/2.pdf" target="_blank">Paper</a>]
             <br>
-        </div></td>
+        </td>
  </tr>
  <tr>
     <td><img class="work-img" src="../images/bottomuppose.png"></td>
-    <td width="68%"><div>
+    <td width="68%">
             Ke Sun, Zigang Geng, <u>Depu Meng</u>, Bin Xiao, Dong Liu, Zhaoxiang Zhang, Jingdong Wang
             <br>
             <strong>Bottom-Up Human Pose Estimation by Ranking Heatmap-Guided Adaptive Keypoint Estimates</strong>
@@ -86,11 +86,11 @@ Publication       {#publication}
             <br>
             [<a href="https://arxiv.org/abs/2006.15480" target="_blank">Paper</a>]
             <br>
-        </div></td>
+        </td>
  </tr>
  <tr>
     <td><img class="work-img" src="../images/mergeandrun.png"></td>
-    <td width="68%"><div>
+    <td width="68%">
             Liming Zhao, Mingjie Li, <u>Depu Meng</u>, Xi Li, Zhaoxiang Zhang, Yueting Zhuang, Zhuowen Tu, Jingdong Wang
             <br>
             <strong>Bottom-Up Human Pose Estimation by Ranking Heatmap-Guided Adaptive Keypoint Estimates</strong>
@@ -98,7 +98,6 @@ Publication       {#publication}
             <em><i>International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>)</i>, 2018</em>
             <br>
             [<a href="https://www.ijcai.org/Proceedings/2018/0440.pdf" target="_blank">Paper</a>] [<a href="https://github.com/zlmzju/fusenet" target="_blank">Code</a>]
-            <br>
-        </div></td>
+            <br></td>
  </tr>
 </table>
