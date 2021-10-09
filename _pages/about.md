@@ -41,7 +41,7 @@ Work Experience
   Visual Computing Group, Microsoft Research Asia  
   Mentor: Dr. Jingdong Wang
 
-Publication       {#publications}
+Publication       {#publication}
 ======
 
 {% if author.googlescholar %}
