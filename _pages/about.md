@@ -53,7 +53,7 @@ Publication       {#publication}
         </div>
 
         <div class="col-md-6">
-            <u>Depu Meng*</u>, Xiaokang Chen, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
+            <u>Depu Meng</u>*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
             <br>
             <strong>Conditional DETR for Fast Training Convergence</strong>
             <br>
