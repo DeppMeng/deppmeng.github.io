@@ -62,4 +62,43 @@ Publication       {#publication}
             <br>
         </div></td>
  </tr>
+ <tr>
+    <td><img class="work-img" src="../images/conic.png"></td>
+    <td width="68%"><div>
+            <u>Depu Meng</u>, Zigang Geng, Zhirong Wu, Bin Xiao, Houqiang Li and Jingdong Wang
+            <br>
+            <strong>Consistent Instance Classification for Unsupervised Representation Learning</strong>
+            <br>
+            <em><i>ICCV Workshop: Self-supervised Learning for Next-Generation Industry-level Autonomous Driving (<strong>ICCV Workshop</strong>)</i>, 2021</em>
+            <br>
+            [<a href="https://sslad2021.github.io/files/2.pdf" target="_blank">Paper</a>]
+            <br>
+        </div></td>
+ </tr>
+ <tr>
+    <td><img class="work-img" src="../images/bottomuppose.png"></td>
+    <td width="68%"><div>
+            Ke Sun, Zigang Geng, <u>Depu Meng</u>, Bin Xiao, Dong Liu, Zhaoxiang Zhang, Jingdong Wang
+            <br>
+            <strong>Bottom-Up Human Pose Estimation by Ranking Heatmap-Guided Adaptive Keypoint Estimates</strong>
+            <br>
+            <em><i>Arxiv</i>, 2020</em>
+            <br>
+            [<a href="https://arxiv.org/abs/2006.15480" target="_blank">Paper</a>]
+            <br>
+        </div></td>
+ </tr>
+ <tr>
+    <td><img class="work-img" src="../images/mergeandrun.png"></td>
+    <td width="68%"><div>
+            Liming Zhao, Mingjie Li, <u>Depu Meng</u>, Xi Li, Zhaoxiang Zhang, Yueting Zhuang, Zhuowen Tu, Jingdong Wang
+            <br>
+            <strong>Bottom-Up Human Pose Estimation by Ranking Heatmap-Guided Adaptive Keypoint Estimates</strong>
+            <br>
+            <em><i>International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>)</i>, 2018</em>
+            <br>
+            [<a href="https://www.ijcai.org/Proceedings/2018/0440.pdf" target="_blank">Paper</a>] [<a href="https://github.com/zlmzju/fusenet" target="_blank">Code</a>]
+            <br>
+        </div></td>
+ </tr>
 </table>
