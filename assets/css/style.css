@@ -11,6 +11,7 @@
     box-shadow: 3px 3px 6px #888;
 }
 
-table {border: none;}
-td {border: none;}
-tr {border: none;}
+table {
+    border: none;
+    border-collapse: collapse;
+}
