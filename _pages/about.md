@@ -28,25 +28,23 @@ Education
 
 Work Experience
 ======
-* *Aug. 2021 - present*
-  **Research Intern**
-  Autonomous Delivery Group, Meituan
+* *Aug. 2021 - present*  
+  **Research Intern**  
+  Autonomous Delivery Group, Meituan  
   Mentor: Dr. Changqiang Yu
-* *Jul. 2019 - Jul. 2021*
-  **Research Intern**
-  Visual Computing Group, Microsoft Research Asia
+* *Jul. 2019 - Jul. 2021*  
+  **Research Intern**  
+  Visual Computing Group, Microsoft Research Asia  
   Mentor: Dr. Jingdong Wang
-* *Jul. 2017 - Jul. 2018*
-  **Research Intern**
-  Visual Computing Group, Microsoft Research Asia
+* *Jul. 2017 - Jul. 2018*  
+  **Research Intern**  
+  Visual Computing Group, Microsoft Research Asia  
   Mentor: Dr. Jingdong Wang
 
 Publication
+======
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
 {% if author.googlescholar %}
