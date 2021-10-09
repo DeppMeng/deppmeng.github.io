@@ -44,14 +44,10 @@ Work Experience
 Publication       {#publication}
 ======
 
-<div id="publication">
-    <!-- Paper ICCV 2021 -->
+<div align=center>  
     <div class="row work-block">
-        <div class="project col-md-1">
-            <img class="work-img" src="../images/conddetr.png">
-        </div>
-
-        <div class="col-md-6">
+        <img class="work-img" src="../images/conddetr.png" width="30%">
+        <div width="68%">
             <u>Depu Meng</u>*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
             <br>
             <strong>Conditional DETR for Fast Training Convergence</strong>
