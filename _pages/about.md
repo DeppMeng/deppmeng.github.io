@@ -48,7 +48,7 @@ Work Experience
 Publication       {#publication}
 ======
 
-<table border="0" bordercolor="#ffffff">
+<table cellspacing="0" cellpadding="0">
  <tr>
     <td><img class="work-img" src="../images/conddetr.png"></td>
     <td width="68%"><div>
