@@ -44,12 +44,22 @@ Work Experience
 Publication       {#publication}
 ======
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div id="publication">
+    <div class="container">
+    <!-- Paper ICCV 2021 -->
+    <div class="row work-block">
+        <div class="project col-xs-3">
+            <img class="work-img" src="../images/conddetr.png">
+        </div>
+        <div class="col-xs-8">
+            <u>Depu Meng*</u>, Xiaokang Chen, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
+            <br>
+            <strong>Conditional DETR for Fast Training Convergence</strong>
+            <br>
+            <em><i>International Conference on Computer Vision (<strong>ICCV</strong>)</i>, 2021</em>
+            <br>
+            [<a href="https://arxiv.org/abs/2108.06152" target="_blank">Paper</a>] [<a href="github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
+            <br>
+        </div>
+    </div>
+</div>
