@@ -17,11 +17,8 @@ motion prediction, etc. He has great passion in computer vision research.
 
 Education
 ======
-* *Sept. 2014 - Jun. 2018*
-  
+* *Sept. 2014 - Jun. 2018*  
   B.S. student, School of the Gifted Young (SCGY), major in Electrical Engineering, University of Science and Technology of China
-* *Sept. 2018 - Jun. 2023 (expected)*
-  
-  Ph.D student, School of Information Science and Technology, major in Automation, University of Science and Technology of China
-
+* *Sept. 2018 - Jun. 2023 (expected)*  
+  Ph.D student, School of Information Science and Technology, major in Automation, University of Science and Technology of China  
   Supervisor: Dr. Jingdong Wang and Prof. Houqiang Li
