@@ -45,7 +45,6 @@ Publication       {#publication}
 ======
 
 <div id="publication">
-    <div class="container">
     <!-- Paper ICCV 2021 -->
     <div class="row work-block">
         <div class="project col-md-1">
