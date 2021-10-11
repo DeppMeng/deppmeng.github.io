@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-  <link rel="stylesheet" href="../assets/css/style.css">
-</head>
-
 Depu Meng is a forth-year Joint-Ph. D. student at University of Science and Technology and Microsoft Research Asia.
 His advisors are [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/).
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He is currently a research intern at Meituan.
@@ -48,10 +44,10 @@ His research interests include *2D object detection/pose estimation, unsupervise
 [<span style="color:black">Publication</span>](#publication)
 ======
 
-<table border="0" cellspacing="0" cellpadding="0">
- <tr border="0">
-    <td border="0"><img class="work-img" src="../images/conddetr.png"></td>
-    <td  border="0" width="68%">
+<table>
+ <tr>
+    <td><img class="work-img" src="../images/conddetr.png"></td>
+    <td width="68%">
             <u>Depu Meng</u>*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
             <br>
             <strong>Conditional DETR for Fast Training Convergence</strong>
