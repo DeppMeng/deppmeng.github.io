@@ -48,10 +48,10 @@ His research interests include *2D object detection/pose estimation, unsupervise
 [<span style="color:black">Publication</span>](#publication)
 ======
 
-<table border="5" cellspacing="0" cellpadding="0">
- <tr>
-    <td><img class="work-img" src="../images/conddetr.png"></td>
-    <td width="68%">
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr border="0">
+    <td border="0"><img class="work-img" src="../images/conddetr.png"></td>
+    <td  border="0" width="68%">
             <u>Depu Meng</u>*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
             <br>
             <strong>Conditional DETR for Fast Training Convergence</strong>
