@@ -48,7 +48,7 @@ His research interests include *2D object detection/pose estimation, unsupervise
 [<span style="color:black">Publication</span>](#publication)
 ======
 
-<table cellspacing="0" cellpadding="0">
+<table border="5" cellspacing="0" cellpadding="0">
  <tr>
     <td><img class="work-img" src="../images/conddetr.png"></td>
     <td width="68%">
@@ -93,7 +93,7 @@ His research interests include *2D object detection/pose estimation, unsupervise
     <td width="68%">
             Liming Zhao, Mingjie Li, <u>Depu Meng</u>, Xi Li, Zhaoxiang Zhang, Yueting Zhuang, Zhuowen Tu, Jingdong Wang
             <br>
-            <strong>Bottom-Up Human Pose Estimation by Ranking Heatmap-Guided Adaptive Keypoint Estimates</strong>
+            <strong>Deep Convolutional Neural Networks with Merge-and-Run Mappings</strong>
             <br>
             <em><i>International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>)</i>, 2018</em>
             <br>
