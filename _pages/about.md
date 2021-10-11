@@ -18,7 +18,7 @@ He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He is cu
 
 His research interests include *2D object detection/pose estimation, unsupervised representation learning, 3D object detection, motion prediction*, etc. He has great passion in computer vision research.
 
-[<span style="color:black">Education</span>](#education)
+[<span style="color:404548">Education</span>](#education)
 ======
 * *Sept. 2018 - Jun. 2023 (expected)*  
   **Ph.D. student**  
@@ -30,7 +30,7 @@ His research interests include *2D object detection/pose estimation, unsupervise
   School of the Gifted Young (SCGY), major in Electrical Engineering  
   University of Science and Technology of China
 
-[<span style="color:black">Work Experience</span>](#work-experience)
+[<span style="color:404548">Work Experience</span>](#work-experience)
 ======
 * *Aug. 2021 - present*  
   **Research Intern**  
@@ -45,7 +45,7 @@ His research interests include *2D object detection/pose estimation, unsupervise
   Visual Computing Group, Microsoft Research Asia  
   Mentor: Dr. Jingdong Wang
 
-[<span style="color:black">Publications</span>](#publications)
+[<span style="color:404548">Publications</span>](#publications)
 ======
 
 <table>
