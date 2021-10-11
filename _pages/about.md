@@ -45,9 +45,9 @@ His research interests include *2D object detection/pose estimation, unsupervise
   Visual Computing Group, Microsoft Research Asia  
   Mentor: Dr. Jingdong Wang
 
-[<span style="color:black">Publication</span>](#publication)
+[<span style="color:black">Publications</span>](#publication)
 ======
-
+<!-- 
 <table>
  <tr>
     <td><img class="work-img" src="../images/conddetr.png"></td>
@@ -100,4 +100,4 @@ His research interests include *2D object detection/pose estimation, unsupervise
             [<a href="https://www.ijcai.org/Proceedings/2018/0440.pdf" target="_blank">Paper</a>] [<a href="https://github.com/zlmzju/fusenet" target="_blank">Code</a>]
             <br></td>
  </tr>
-</table>
+</table> -->
