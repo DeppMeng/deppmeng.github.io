@@ -16,7 +16,7 @@ Depu Meng is a forth-year Joint-Ph. D. student at University of Science and Tech
 His advisors are [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/).
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He is currently a research intern at Meituan.
 
-His research interests include *2D object detection/pose estimation, unsupervised representation learning, 3D object detection, motion prediction*, etc. He has great passion in computer vision research.
+His research interests include *2D/3D object detection, motion prediction, unsupervised representation learning*, etc. He has great passion in computer vision research.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
@@ -35,7 +35,7 @@ His research interests include *2D object detection/pose estimation, unsupervise
 * *Aug. 2021 - present*  
   **Research Intern**  
   Autonomous Delivery Group, Meituan  
-  Mentor: Dr. Changqiang Yu
+  Mentor: [Dr. Changqiang Yu](https://www.changqianyu.me/)
 * *Jul. 2019 - Jul. 2021*  
   **Research Intern**  
   Visual Computing Group, Microsoft Research Asia  
@@ -101,3 +101,7 @@ His research interests include *2D object detection/pose estimation, unsupervise
             <br></td>
  </tr>
 </table>
+
+[<span style="color:rgb(64,69,72)">Services</span>](#services)
+======
+* Conference Reviewer: CVPR 2022
