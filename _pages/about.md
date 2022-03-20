@@ -13,7 +13,7 @@ redirect_from:
 </head>
 
 Depu Meng is a forth-year Joint-Ph. D. student at University of Science and Technology of China (USTC) and Microsoft Research Asia (MSRA).
-His advisors are [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/).
+His advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He is currently a research intern at Meituan.
 Here is my [CV](../files/CV.pdf).
 
@@ -105,4 +105,4 @@ His research interests include *2D/3D object detection, motion prediction, unsup
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
-* Conference Reviewer: CVPR 2022
+* Conference Reviewer: CVPR 2022, ECCV 2022
