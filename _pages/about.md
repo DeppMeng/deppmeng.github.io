@@ -33,7 +33,11 @@ His research interests include *2D/3D object detection, motion prediction, unsup
 
 [<span style="color:rgb(64,69,72)">Work Experience</span>](#work-experience)
 ======
-* *Aug. 2021 - present*  
+* *(Incoming) Apr. 2022 - Mar. 2023*  
+  **Visiting Scholar**  
+  Michigan Traffic Lab, University of Michigan, Ann Arbor  
+  Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)
+* *Aug. 2021 - Apr. 2022*  
   **Research Intern**  
   Autonomous Delivery Group, Meituan  
   Mentor: [Dr. Changqiang Yu](https://www.changqianyu.me/)
