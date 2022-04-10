@@ -55,6 +55,19 @@ His research interests include *2D/3D object detection, motion prediction, unsup
 
 <table>
  <tr>
+    <td><img class="work-img" src="../images/CORE.png"></td>
+    <td width="68%">
+            Yunsheng Ni, <u>Depu Meng</u>, Changqian Yu, Chengbin Quan, Dongchun Ren, Youjian Zhao
+            <br>
+            <strong>CORE: COnsistent REpresentation Learning for Face Forgery Detection</strong>
+            <br>
+            <em><i>CVPR Workshop on Media Forensics (<strong>CVPR Workshop</strong>)</i>, 2022</em>
+            <br>
+            <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
+            <br> -->
+        </td>
+ </tr>
+ <tr>
     <td><img class="work-img" src="../images/conddetr.png"></td>
     <td width="68%">
             <u>Depu Meng</u>*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
