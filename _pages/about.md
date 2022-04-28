@@ -25,7 +25,7 @@ His research interests include *2D/3D object detection, motion prediction, unsup
   **Ph.D. student**  
   School of Information Science and Technology, major in Automation  
   University of Science and Technology of China  
-  Supervisor: Dr. Jingdong Wang and Prof. Houqiang Li
+  Supervisor: Dr. Baining Guo and Prof. Houqiang Li
 * *Sept. 2014 - Jun. 2018*  
   **B.S. student**  
   School of the Gifted Young (SCGY), major in Electrical Engineering  
@@ -54,6 +54,19 @@ His research interests include *2D/3D object detection, motion prediction, unsup
 ======
 
 <table>
+ <tr>
+    <td><img class="work-img" src="../images/HyMo.png"></td>
+    <td width="68%">
+            <u>Depu Meng</u>, Changqian Yu, Jiajun Deng, Deheng Qian, Houqiang Li, Dongchun Ren
+            <br>
+            <strong>Hybrid Motion Representation Learning for Prediction from Raw Sensor Data</strong>
+            <br>
+            <em><i>In Submission</i></em>
+            <br>
+            <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
+            <br> -->
+        </td>
+ </tr>
  <tr>
     <td><img class="work-img" src="../images/CORE.png"></td>
     <td width="68%">
