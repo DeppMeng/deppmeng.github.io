@@ -76,8 +76,8 @@ His research interests include *2D/3D object detection, motion prediction, unsup
             <br>
             <em><i>CVPR Workshop on Media Forensics (<strong>CVPR Workshop</strong>)</i>, 2022</em>
             <br>
-            <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
-            <br> -->
+            [<a href="https://arxiv.org/abs/2206.02749" target="_blank">Paper</a>] [<a href="https://github.com/niyunsheng/CORE" target="_blank">Code</a>]
+            <br>
         </td>
  </tr>
  <tr>
@@ -135,4 +135,4 @@ His research interests include *2D/3D object detection, motion prediction, unsup
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
-* Conference Reviewer: CVPR 2022, ECCV 2022
+* Conference Reviewer: CVPR 2022, ECCV 2022, 3DV 2022
