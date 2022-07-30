@@ -14,10 +14,11 @@ redirect_from:
 
 Depu Meng is a forth-year Joint-Ph. D. student at University of Science and Technology of China (USTC) and Microsoft Research Asia (MSRA).
 His advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
-He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He is currently a research intern at Meituan.
+He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He also interned at Meituan
+During 2021-2022. He is currently a visiting scholar at University of Michigan, Ann Arbor.
 Here is my [CV](../files/CV.pdf).
 
-His research interests include *2D/3D object detection, motion prediction, unsupervised representation learning*, etc. He has great passion in computer vision research.
+His research interests include *2D/3D object detection, motion prediction, traffic conflict*, etc. He has great passion in computer vision and transportation research.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
@@ -33,7 +34,7 @@ His research interests include *2D/3D object detection, motion prediction, unsup
 
 [<span style="color:rgb(64,69,72)">Work Experience</span>](#work-experience)
 ======
-* *Apr. 2022 - Mar. 2023*  
+* *Apr. 2022 - present*  
   **Visiting Scholar**  
   Michigan Traffic Lab, University of Michigan, Ann Arbor  
   Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)
@@ -135,4 +136,5 @@ His research interests include *2D/3D object detection, motion prediction, unsup
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
-* Conference Reviewer: CVPR 2022, ECCV 2022, 3DV 2022
+* Conference Reviewer: CVPR 2022, ECCV 2022, 3DV 2022, CICAI 2022
+* Journal Reviewer: IEEE T-IV
