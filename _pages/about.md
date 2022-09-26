@@ -90,7 +90,7 @@ His research interests include *2D/3D object detection, motion prediction, traff
             <br>
             <em><i>International Conference on Computer Vision (<strong>ICCV</strong>)</i>, 2021</em>
             <br>
-            [<a href="https://arxiv.org/abs/2108.06152" target="_blank">Paper</a>] [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
+            [<a href="https://arxiv.org/abs/2108.06152" target="_blank">Paper</a>] [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>] [<a href="https://huggingface.co/docs/transformers/main/model_doc/conditional_detr" target="_blank">HuggingFace</a>]
             <br>
         </td>
  </tr>
