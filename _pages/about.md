@@ -24,7 +24,7 @@ His research interests include *2D/3D object detection, motion prediction, traff
 ======
 * *Sept. 2018 - Jun. 2023 (expected)*  
   **Ph.D. student**  
-  School of Information Science and Technology, major in Automation  
+  School of Information Science and Technology, major in Control Science and Engineering  
   University of Science and Technology of China  
   Supervisor: Dr. Baining Guo and Prof. Houqiang Li
 * *Sept. 2014 - Jun. 2018*  
