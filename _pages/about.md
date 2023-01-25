@@ -75,7 +75,7 @@ His research interests include *2D/3D object detection, motion prediction, traff
             <br>
             <strong>Hybrid Motion Representation Learning for Prediction from Raw Sensor Data</strong>
             <br>
-            <em><i>IEEE Transactions on Multimedia, 2023</i></em>
+            <em><i>IEEE Transactions on Multimedia (<strong>T-MM</strong>), 2023</i></em>
             <br>
             <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
             <br> -->
