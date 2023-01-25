@@ -12,7 +12,7 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a forth-year Joint-Ph. D. student at University of Science and Technology of China (USTC) and Microsoft Research Asia (MSRA).
+Depu Meng is a fifth-year Joint-Ph. D. student at University of Science and Technology of China (USTC) and Microsoft Research Asia (MSRA).
 His advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He also interned at Meituan
 During 2021-2022. He is currently a visiting scholar at University of Michigan, Ann Arbor.
@@ -56,13 +56,26 @@ His research interests include *2D/3D object detection, motion prediction, traff
 
 <table>
  <tr>
+    <td><img class="work-img" src="../images/ROCO.png"></td>
+    <td width="68%">
+            <u>Depu Meng</u>, Owen Sayer, Rusheng Zhang, Shengyin Shen, Houqiang Li, Henry X. Liu
+            <br>
+            <strong>ROCO: A Roundabout Traffic Conflict Dataset</strong>
+            <br>
+            <em><i>Transportation Research Board Annual Meeting, 2023</i></em>
+            <br>
+            <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
+            <br> -->
+        </td>
+ </tr>
+ <tr>
     <td><img class="work-img" src="../images/HyMo.png"></td>
     <td width="68%">
             <u>Depu Meng</u>, Changqian Yu, Jiajun Deng, Deheng Qian, Houqiang Li, Dongchun Ren
             <br>
             <strong>Hybrid Motion Representation Learning for Prediction from Raw Sensor Data</strong>
             <br>
-            <em><i>In Submission</i></em>
+            <em><i>IEEE Transactions on Multimedia, 2023</i></em>
             <br>
             <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
             <br> -->
