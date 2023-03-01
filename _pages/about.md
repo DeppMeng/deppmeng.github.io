@@ -77,8 +77,8 @@ His research interests include *2D/3D object detection, motion prediction, traff
             <br>
             <em><i>IEEE Transactions on Multimedia (<strong>T-MM</strong>), 2023</i></em>
             <br>
-            <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
-            <br> -->
+            [<a href="https://ieeexplore.ieee.org/abstract/document/10040996" target="_blank">Paper</a>]
+            <br>
         </td>
  </tr>
  <tr>
@@ -149,5 +149,5 @@ His research interests include *2D/3D object detection, motion prediction, traff
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
-* Conference Reviewer: CVPR 2022, CVPR 2023, ECCV 2022, 3DV 2022, CICAI 2022, TRBAM 2023
-* Journal Reviewer: IEEE T-IV, IEEE T-MM
+* Conference Reviewer: CVPR 2022, CVPR 2023, ICCV 2023, ECCV 2022, 3DV 2022, CICAI 2022, TRBAM 2023
+* Journal Reviewer: IEEE T-IV, IEEE T-MM, IEEE T-CSVT
