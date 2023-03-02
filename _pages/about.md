@@ -64,8 +64,8 @@ His research interests include *2D/3D object detection, motion prediction, traff
             <br>
             <em><i>Transportation Research Board Annual Meeting (<strong>TRBAM</strong>), 2023</i></em>
             <br>
-            <!-- [target="_blank">Paper</ [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>]
-            <br> -->
+            [<a href="https://arxiv.org/abs/2303.00563" target="_blank">Paper</a>]
+            [<a href="https://github.com/michigan-traffic-lab/ROCO" target="_blank">Data</a>]
         </td>
  </tr>
  <tr>
