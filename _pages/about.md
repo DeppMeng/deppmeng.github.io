@@ -12,31 +12,36 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a fifth-year Joint-Ph. D. student at University of Science and Technology of China (USTC) and Microsoft Research Asia (MSRA).
-His advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
+Depu Meng is a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
+He received the Ph. D. degree in the Department of Automation, University of Science and Technology of China.
+His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He also interned at Meituan
-During 2021-2022. He is currently a visiting scholar at University of Michigan, Ann Arbor.
+during 2021-2022. He was a visiting scholar at the University of Michigan during 2022-2023.
 Here is my [CV](../files/CV.pdf).
 
-His research interests include *2D/3D object detection, motion prediction, traffic conflict*, etc. He has great passion in computer vision and transportation research.
+His research interests include *traffic safety research, 2D/3D object detection, motion prediction*, etc. He has great passion in  transportation research and computer vision.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
-* *Sept. 2018 - Jun. 2023 (expected)*  
-  **Ph.D. student**  
+* *Sept. 2018 - Jun. 2023*  
+  **Ph.D.**  
   School of Information Science and Technology, major in Control Science and Engineering  
   University of Science and Technology of China  
   Supervisor: Dr. Baining Guo and Prof. Houqiang Li
 * *Sept. 2014 - Jun. 2018*  
-  **B.S. student**  
+  **B.E.**  
   School of the Gifted Young (SCGY), major in Electrical Engineering  
   University of Science and Technology of China
 
 [<span style="color:rgb(64,69,72)">Work Experience</span>](#work-experience)
 ======
-* *Apr. 2022 - present*  
+* *Jun. 2023 - present*  
+  **Post-Doctoral Research Fellow**  
+  Michigan Traffic Lab, University of Michigan  
+  Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)
+* *Apr. 2022 - Jun. 2023*  
   **Visiting Scholar**  
-  Michigan Traffic Lab, University of Michigan, Ann Arbor  
+  Michigan Traffic Lab, University of Michigan  
   Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)
 * *Aug. 2021 - Apr. 2022*  
   **Research Intern**  
@@ -55,6 +60,18 @@ His research interests include *2D/3D object detection, motion prediction, traff
 ======
 
 <table>
+ <tr>
+    <td><img class="work-img" src="../images/AnnoFree.png"></td>
+    <td width="68%">
+            Rusheng Zhang, <u>Depu Meng</u>, Lance Bassett, Shengyin Shen, Zhengxia Zou, Henry X. Liu
+            <br>
+            <strong>Robust Roadside Perception for Autonomous Driving: an Annotation-free Strategy with Synthesized Data</strong>
+            <br>
+            <em><i>Technical Report, 2023</i></em>
+            <br>
+            [<a href="https://arxiv.org/abs/2306.17302" target="_blank">Paper</a>]
+        </td>
+ </tr>
  <tr>
     <td><img class="work-img" src="../images/ROCO.png"></td>
     <td width="68%">
