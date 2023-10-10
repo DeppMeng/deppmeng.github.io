@@ -67,7 +67,7 @@ His research interests include *traffic safety research, 2D/3D object detection,
             <br>
             <strong>MSight: An Edge-Cloud Infrastructure-based Perception System for Connected Automated Vehicles</strong>
             <br>
-            <em><i>Arxiv preprint</i></em>
+            <em><i>In Submissions</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2310.05290" target="_blank">Paper</a>]
         </td>
@@ -89,7 +89,7 @@ His research interests include *traffic safety research, 2D/3D object detection,
             <br>
             <strong>Robust Roadside Perception for Autonomous Driving: an Annotation-free Strategy with Synthesized Data</strong>
             <br>
-            <em><i>Technical Report, 2023</i></em>
+            <em><i>In Submissions</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2306.17302" target="_blank">Paper</a>]
         </td>
