@@ -188,5 +188,5 @@ His research interests include *traffic safety research, 2D/3D object detection,
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
-* Conference Reviewer: CVPR 2022, CVPR 2023, ICCV 2023, ECCV 2022, 3DV 2022, CICAI 2022, TRBAM 2023
-* Journal Reviewer: IEEE T-IV, IEEE T-MM, IEEE T-CSVT
+* Conference Reviewer: CVPR 2022, CVPR 2023, ECCV 2022, CICAI 2022, ICCV 2023, TRBAM 2023, TRBAM 2024
+* Journal Reviewer: IEEE T-IV, IEEE T-MM, IEEE T-CSVT, Neuralcomputing
