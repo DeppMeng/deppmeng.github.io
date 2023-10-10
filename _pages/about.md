@@ -61,6 +61,28 @@ His research interests include *traffic safety research, 2D/3D object detection,
 
 <table>
  <tr>
+    <td><img class="work-img" src="../images/msight.png"></td>
+    <td width="68%">
+            Rusheng Zhang*, <u>Depu Meng*</u>, Shengyin Shen, Zhengxia Zou, Houqiang Li, Henry X. Liu
+            <br>
+            <strong>MSight: An Edge-Cloud Infrastructure-based Perception System for Connected Automated Vehicles</strong>
+            <br>
+            <em><i>Arxiv preprint</i></em>
+            <br>
+            [<a href="https://arxiv.org/abs/2310.05290" target="_blank">Paper</a>]
+        </td>
+ </tr>
+ <tr>
+    <td><img class="work-img" src="../images/perception-eval.png"></td>
+    <td width="68%">
+            Rusheng Zhang, <u>Depu Meng</u>, Tinghan Wang, Tai Karir, Shengyin Shen, Michael Maile, Michael Shulman, Henry X. Liu
+            <br>
+            <strong>Systematic Assessment of Roadside Perception Systems for Automated Vehicles: Insights from Field Testing</strong>
+            <br>
+            <em><i>Transportation Research Board Annual Meeting (<strong>TRBAM</strong>), 2024</i></em>
+        </td>
+ </tr>
+ <tr>
     <td><img class="work-img" src="../images/AnnoFree.png"></td>
     <td width="68%">
             Rusheng Zhang, <u>Depu Meng</u>, Lance Bassett, Shengyin Shen, Zhengxia Zou, Henry X. Liu
