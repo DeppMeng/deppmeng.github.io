@@ -80,6 +80,8 @@ His research interests include *traffic safety research, 2D/3D object detection,
             <strong>Systematic Assessment of Roadside Perception Systems for Automated Vehicles: Insights from Field Testing</strong>
             <br>
             <em><i>Transportation Research Board Annual Meeting (<strong>TRBAM</strong>), 2024</i></em>
+            <br>
+            [<a href="https://arxiv.org/abs/2401.12392" target="_blank">Paper</a>]
         </td>
  </tr>
  <tr>
