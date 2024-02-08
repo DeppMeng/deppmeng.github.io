@@ -91,7 +91,7 @@ His research interests include *traffic safety research, 2D/3D object detection,
             <br>
             <strong>Robust Roadside Perception for Autonomous Driving: an Annotation-free Strategy with Synthesized Data</strong>
             <br>
-            <em><i>In Submissions</i></em>
+            <em><i>IEEE Transactions on Intelligent Vehicles</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2306.17302" target="_blank">Paper</a>]
         </td>
