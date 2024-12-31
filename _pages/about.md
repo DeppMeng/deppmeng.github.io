@@ -12,14 +12,15 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
+Depu Meng is a Machine Learning Engineer at DiDi Autonomous Driving, focusing research and development on simulation for autonomous driving.
+He was a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
 He received the Ph. D. degree in the Department of Automation, University of Science and Technology of China.
 His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He also interned at Meituan
 during 2021-2022. He was a visiting scholar at the University of Michigan during 2022-2023.
 Here is my [CV](../files/CV.pdf).
 
-His research interests include *traffic safety research, 2D/3D object detection, motion prediction*, etc. He has great passion in  transportation research and computer vision.
+His research interests include *simulation, scene understanding, traffic safety research, 2D/3D object detection, motion prediction*, etc. He has great passion in autonomous driving research and computer vision.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
@@ -35,7 +36,10 @@ His research interests include *traffic safety research, 2D/3D object detection,
 
 [<span style="color:rgb(64,69,72)">Work Experience</span>](#work-experience)
 ======
-* *Jun. 2023 - present*  
+* *Dec. 2024 - present*  
+  **Machine Learning Engineer**  
+  Simulation Team, DiDi Autonomous Driving
+* *Jun. 2023 - Dec. 2024*  
   **Post-Doctoral Research Fellow**  
   Michigan Traffic Lab, University of Michigan  
   Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)

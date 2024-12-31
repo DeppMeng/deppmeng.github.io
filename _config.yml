@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Depu Meng"
   avatar           : "depu_and_hongdou.JPG"
-  bio              : "Post-Doctoral Research Fellow at University of Michigan"
-  location         : "Ann Arbor, MI, USA"
+  bio              : "Machine Learning Engineer at DiDi Autonomous Driving"
+  location         : "San Jose, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2oYPT9IAAAAJ&hl=en-US#"
-  email            : "depum@umich.edu"
+  email            : "mdpustc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
