@@ -20,7 +20,7 @@ He interned at Microsoft Research Asia during 2017-2018, and 2019-2021. He also 
 during 2021-2022. He was a visiting scholar at the University of Michigan during 2022-2023.
 Here is my [CV](../files/CV.pdf).
 
-His research interests include *simulation, scene understanding, traffic safety research, 2D/3D object detection, motion prediction*, etc. He has great passion in autonomous driving research and computer vision.
+His research interests include *end-to-end autonomous driving, simulation, scene understanding, traffic safety research, 2D/3D object detection*, etc. He has great passion in autonomous driving research and computer vision.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
