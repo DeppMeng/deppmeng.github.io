@@ -12,7 +12,7 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a Machine Learning Engineer at DiDi Autonomous Driving, focusing research and development on simulation for autonomous driving.
+Depu Meng is a Machine Learning Engineer at DiDi Autonomous Driving, AI Research group, focusing on end-to-end autonomous driving.
 He was a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
 He received the Ph. D. degree in the Department of Automation, University of Science and Technology of China.
 His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
@@ -38,7 +38,7 @@ His research interests include *simulation, scene understanding, traffic safety 
 ======
 * *Dec. 2024 - present*  
   **Machine Learning Engineer**  
-  Simulation Team, DiDi Autonomous Driving
+  AI Research, DiDi Autonomous Driving
 * *Jun. 2023 - Dec. 2024*  
   **Post-Doctoral Research Fellow**  
   Michigan Traffic Lab, University of Michigan  
@@ -194,5 +194,6 @@ His research interests include *simulation, scene understanding, traffic safety 
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
-* Conference Reviewer: CVPR 2022, CVPR 2023, ECCV 2022, CICAI 2022, ICCV 2023, TRBAM 2023, TRBAM 2024
-* Journal Reviewer: IEEE T-IV, IEEE T-MM, IEEE T-CSVT, Neuralcomputing
+* Conference Reviewer: CVPR 2022, CVPR 2023, CVPR 2024, CVPR 2025, ECCV 2022, ECCV 2024, CICAI 2022, ICCV 2023, ICCV 2025, TRBAM 2023, TRBAM 2024, IROS 2023
+* Journal Reviewer: IEEE T-IV, IEEE T-MM, IEEE T-CSVT, Neuralcomputing, Pattern Recognition, Automotive Innovation
+* Youth Editorial Board: Artificial Intelligence and Autonomous Systems
