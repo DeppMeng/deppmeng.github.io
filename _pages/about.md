@@ -12,21 +12,21 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a Research Engineer at Applied Intuition, focusing on end-to-end autonomous driving and multi-modal foundation models.
+Depu Meng is a Research Engineer at Applied Intuition, focusing on multimodal foundation model pretraining and video generation.
 He was a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
 He received the Ph. D. degree in the Department of Automation, University of Science and Technology of China.
 His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021.
 Here is my [CV](../files/CV.pdf).
 
-His research interests include *end-to-end autonomous driving, multi-modal foundation models, autonomous driving simulation*, etc. He has great passion in autonomous driving research and computer vision.
+His research interests include *end-to-end autonomous driving, multi-modal foundation models, world model*, etc. He has great passion in autonomous driving, robotics and general computer vision research.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
 * *Sept. 2018 - Jun. 2023*  
   **Ph.D.**  
   School of Information Science and Technology, major in Control Science and Engineering  
-  University of Science and Technology of China  
+  University of Science and Technology of China - Microsoft Research Asia   
   Supervisor: Dr. Baining Guo and Prof. Houqiang Li
 * *Sept. 2014 - Jun. 2018*  
   **B.E.**  
@@ -41,31 +41,47 @@ His research interests include *end-to-end autonomous driving, multi-modal found
 * *Dec. 2024 - Aug. 2025*  
   **Machine Learning Engineer**  
   AI Research, DiDi Autonomous Driving
-* *Jun. 2023 - Dec. 2024*  
-  **Post-Doctoral Research Fellow**  
-  Michigan Traffic Lab, University of Michigan  
-  Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)
-* *Apr. 2022 - Jun. 2023*  
-  **Visiting Scholar**  
-  Michigan Traffic Lab, University of Michigan  
+* *Apr. 2022 - Dec. 2024*  
+  **Post-Doctoral Research Fellow and Visiting Scholar**  
+  Mobility Transformation Lab, University of Michigan  
   Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)
 * *Aug. 2021 - Apr. 2022*  
   **Research Intern**  
   Autonomous Delivery Group, Meituan  
   Mentor: [Dr. Changqiang Yu](https://www.changqianyu.me/)
-* *Jul. 2019 - Jul. 2021*  
+* *Jul. 2019 - Jul. 2021*, *Jul. 2017 - Jul. 2018*    
   **Research Intern**  
   Visual Computing Group, Microsoft Research Asia  
-  Mentor: Dr. Jingdong Wang
-* *Jul. 2017 - Jul. 2018*  
-  **Research Intern**  
-  Visual Computing Group, Microsoft Research Asia  
-  Mentor: Dr. Jingdong Wang
+  Mentor: [Dr. Jingdong Wang](https://jingdongwang2017.github.io/)
 
-[<span style="color:rgb(64,69,72)">Publications</span>](#publications)
+[<span style="color:rgb(64,69,72)">Selected Publications</span>](#publications)
 ======
-
+\* Equal contribution, &dagger; Project lead
 <table>
+ <tr>
+    <td><img class="work-img" src="../images/urope.png"></td>
+    <td width="68%">
+            Yichen Xie, <u>Depu Meng</u>, Chensheng Peng, Yihan Hu, Quentin Herau, Masayoshi Tomizuka, Wei Zhan
+            <br>
+            <strong>URoPE: Universal Relative Position Embedding across Geometric Spaces</strong>
+            <br>
+            <em><i>Arxiv, 2026</i></em>
+            <br>
+            [<a href="https://arxiv.org/abs/2604.18747" target="_blank">Paper</a>] [<a href="https://urope-pe.github.io/" target="_blank">Project</a>]
+        </td>
+ </tr>
+ <tr>
+    <td><img class="work-img" src="../images/spectralsplat.png"></td>
+    <td width="68%">
+            Quentin Herau*, Tianshuo Xu*, <u>Depu Meng&dagger;</u>, Zhijie Yang, Chensheng Peng, Spencer Sherk, Yihan Hu, Wei Zhan
+            <br>
+            <strong>SpectralSplat: Appearance-Disentangled Feed-Forward Gaussian Splatting for Driving Scenes</strong>
+            <br>
+            <em><i>Arxiv, 2026</i></em>
+            <br>
+            [<a href="https://arxiv.org/html/2604.03462v1" target="_blank">Paper</a>]
+        </td>
+ </tr>
  <tr>
     <td><img class="work-img" src="../images/msight.png"></td>
     <td width="68%">
@@ -73,12 +89,12 @@ His research interests include *end-to-end autonomous driving, multi-modal found
             <br>
             <strong>MSight: An Edge-Cloud Infrastructure-based Perception System for Connected Automated Vehicles</strong>
             <br>
-            <em><i>In Submissions</i></em>
+            <em><i>Tech Report</i></em>
             <br>
-            [<a href="https://arxiv.org/abs/2310.05290" target="_blank">Paper</a>]
+            [<a href="https://arxiv.org/abs/2310.05290" target="_blank">Paper</a>] [<a href="https://github.com/michigan-traffic-lab/MSight" target="_blank">Code</a>]
         </td>
  </tr>
- <tr>
+ <!-- <tr>
     <td><img class="work-img" src="../images/perception-eval.png"></td>
     <td width="68%">
             Rusheng Zhang, <u>Depu Meng</u>, Tinghan Wang, Tai Karir, Shengyin Shen, Michael Maile, Michael Shulman, Henry X. Liu
@@ -90,14 +106,14 @@ His research interests include *end-to-end autonomous driving, multi-modal found
             [<a href="https://arxiv.org/abs/2401.12392" target="_blank">Paper</a>]
         </td>
  </tr>
- <tr>
+ <tr> -->
     <td><img class="work-img" src="../images/AnnoFree.png"></td>
     <td width="68%">
             Rusheng Zhang, <u>Depu Meng</u>, Lance Bassett, Shengyin Shen, Zhengxia Zou, Henry X. Liu
             <br>
-            <strong>Robust Roadside Perception for Autonomous Driving: an Annotation-free Strategy with Synthesized Data</strong>
+            <strong>Robust Roadside Perception: an Automated Data Synthesis Pipeline Minimizing Human Annotation</strong>
             <br>
-            <em><i>IEEE Transactions on Intelligent Vehicles (<strong>T-IV</strong>), 2024</i></em>
+            <em><i>IEEE Transactions on Intelligent Vehicles (<strong>T-IV</strong>) & U.S. Patent, 2024</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2306.17302" target="_blank">Paper</a>]
         </td>
@@ -167,7 +183,7 @@ His research interests include *end-to-end autonomous driving, multi-modal found
             <br>
         </td>
  </tr>
- <tr>
+ <!-- <tr>
     <td><img class="work-img" src="../images/bottomuppose.png"></td>
     <td width="68%">
             Ke Sun, Zigang Geng, <u>Depu Meng</u>, Bin Xiao, Dong Liu, Zhaoxiang Zhang, Jingdong Wang
@@ -191,11 +207,10 @@ His research interests include *end-to-end autonomous driving, multi-modal found
             <br>
             [<a href="https://www.ijcai.org/Proceedings/2018/0440.pdf" target="_blank">Paper</a>] [<a href="https://github.com/zlmzju/fusenet" target="_blank">Code</a>]
             <br></td>
- </tr>
+ </tr> -->
 </table>
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
-* Conference Reviewer: CVPR 2022, CVPR 2023, CVPR 2024, CVPR 2025, ECCV 2022, ECCV 2024, CICAI 2022, ICCV 2023, ICCV 2025, TRBAM 2023, TRBAM 2024, IROS 2023
-* Journal Reviewer: IEEE T-IV, IEEE T-MM, IEEE T-CSVT, Neuralcomputing, Pattern Recognition, Automotive Innovation
-* Youth Editorial Board: Artificial Intelligence and Autonomous Systems
+* Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ACM MM, IROS 
+* Journal Reviewer: IJCV, IEEE T-IV, IEEE T-MM, IEEE T-CSVT, Neuralcomputing, Pattern Recognition
