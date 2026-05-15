@@ -105,8 +105,8 @@ His research interests include *end-to-end autonomous driving, multi-modal found
             <br>
             [<a href="https://arxiv.org/abs/2401.12392" target="_blank">Paper</a>]
         </td>
- </tr>
- <tr> -->
+ </tr> -->
+ <tr>
     <td><img class="work-img" src="../images/AnnoFree.png"></td>
     <td width="68%">
             Rusheng Zhang, <u>Depu Meng</u>, Lance Bassett, Shengyin Shen, Zhengxia Zou, Henry X. Liu
