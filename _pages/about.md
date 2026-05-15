@@ -56,8 +56,7 @@ His research interests include *end-to-end autonomous driving, multi-modal found
 
 [<span style="color:rgb(64,69,72)">Selected Publications</span>](#publications)
 ======
-\* Equal contribution, &dagger; Project lead
-
+<p>* Equal contribution, &dagger; Project lead</p>
 <table>
  <tr>
     <td><img class="work-img" src="../images/urope.png"></td>
