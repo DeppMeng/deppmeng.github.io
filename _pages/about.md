@@ -12,14 +12,14 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a Research Engineer at Applied Intuition, focusing on multimodal foundation model pretraining and video generation.
+Depu Meng is a Research Engineer at Applied Intuition, focusing on multimodal foundation model pretraining and world model.
 He was a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
-He received the Ph. D. degree in the Department of Automation, University of Science and Technology of China.
-His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/), he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
+He received the Ph. D. degree in the Department of Automation, University of Science and Technology of China, with a joint-PhD program with Microsoft Research Asia.
+His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) from Microsoft and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/) from USTC, he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021.
 Here is my [CV](../files/CV.pdf).
 
-His research interests include *end-to-end autonomous driving, multi-modal foundation models, world model*, etc. He has great passion in autonomous driving, robotics and general computer vision research.
+His research interests include *multi-modal foundation model, physical world model, robotics world action model*, etc. He has great passion in autonomous driving, robotics and general computer vision research.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
@@ -44,11 +44,11 @@ His research interests include *end-to-end autonomous driving, multi-modal found
 * *Apr. 2022 - Dec. 2024*  
   **Post-Doctoral Research Fellow and Visiting Scholar**  
   Mobility Transformation Lab, University of Michigan  
-  Mentor: [Prof. Henry Liu](https://traffic.engin.umich.edu/)
+  Mentor: [Prof. Henry X. Liu](https://traffic.engin.umich.edu/)
 * *Aug. 2021 - Apr. 2022*  
   **Research Intern**  
   Autonomous Delivery Group, Meituan  
-  Mentor: [Dr. Changqiang Yu](https://www.changqianyu.me/)
+  Mentor: [Dr. Changqiang Yu](https://yu-changqian.github.io/)
 * *Jul. 2019 - Jul. 2021*, *Jul. 2017 - Jul. 2018*    
   **Research Intern**  
   Visual Computing Group, Microsoft Research Asia  
@@ -58,6 +58,30 @@ His research interests include *end-to-end autonomous driving, multi-modal found
 ======
 <p>* Equal contribution, &dagger; Project lead</p>
 <table>
+ <tr>
+    <td><img class="work-img" src="../images/lamo.png"></td>
+    <td width="68%">
+            Bo Jiang, <u>Depu Meng</u>, Yihan Hu, Yichen Xie, Tianshuo Xu, Wei Zhan
+            <br>
+            <strong>LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</strong>
+            <br>
+            <em><i>Arxiv, 2026</i></em>
+            <br>
+            [<a href="https://arxiv.org/abs/2605.23878" target="_blank">Paper</a>] [<a href="https://lamo-ai.github.io/" target="_blank">Project</a>]
+        </td>
+ </tr>
+ <tr>
+    <td><img class="work-img" src="../images/remind.png"></td>
+    <td width="68%">
+            Tianshuo Xu, Yichen Xie, <u>Depu Meng&dagger;</u>, Chensheng Peng, Quentin Herau, Bo Jiang, Yihan Hu, Wei Zhan
+            <br>
+            <strong>Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution</strong>
+            <br>
+            <em><i>Arxiv, 2026</i></em>
+            <br>
+            [<a href="https://arxiv.org/abs/2605.25333" target="_blank">Paper</a>]
+        </td>
+ </tr>
  <tr>
     <td><img class="work-img" src="../images/urope.png"></td>
     <td width="68%">
@@ -195,7 +219,7 @@ His research interests include *end-to-end autonomous driving, multi-modal found
             [<a href="https://arxiv.org/abs/2006.15480" target="_blank">Paper</a>]
             <br>
         </td>
- </tr>
+ </tr> -->
  <tr>
     <td><img class="work-img" src="../images/mergeandrun.png"></td>
     <td width="68%">
@@ -207,7 +231,7 @@ His research interests include *end-to-end autonomous driving, multi-modal found
             <br>
             [<a href="https://www.ijcai.org/Proceedings/2018/0440.pdf" target="_blank">Paper</a>] [<a href="https://github.com/zlmzju/fusenet" target="_blank">Code</a>]
             <br></td>
- </tr> -->
+ </tr>
 </table>
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
