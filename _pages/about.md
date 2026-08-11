@@ -12,21 +12,21 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a Research Engineer at Applied Intuition, focusing on multimodal foundation model pretraining and world model.
+Depu Meng is a Senior Research Engineer and Tech Lead at Applied Intuition, focusing on multimodal foundation model training and physicalworld models.
 He was a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
-He received the Ph. D. degree in the Department of Automation, University of Science and Technology of China, with a joint-PhD program with Microsoft Research Asia.
-His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) from Microsoft and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/) from USTC, he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/) previously.
+He received the Ph. D. degree from University of Science and Technology of China, with a joint-PhD program with Microsoft Research Asia.
+His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) from Microsoft and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/) from USTC, he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/).
 He interned at Microsoft Research Asia during 2017-2018, and 2019-2021.
-Here is my [CV](../files/CV.pdf).
+Here is his [CV](../files/CV.pdf).
 
-His research interests include *multi-modal foundation model, physical world model, robotics world action model*, etc. He has great passion in autonomous driving, robotics and general computer vision research.
+His research interests include *multi-modal foundation model, physical world model, robotics world foundation model*, etc.
 
 [<span style="color:rgb(64,69,72)">Education</span>](#education)
 ======
 * *Sept. 2018 - Jun. 2023*  
   **Ph.D.**  
   School of Information Science and Technology, major in Control Science and Engineering  
-  University of Science and Technology of China - Microsoft Research Asia   
+  University of Science and Technology of China - Microsoft Research Asia
   Supervisor: Dr. Baining Guo and Prof. Houqiang Li
 * *Sept. 2014 - Jun. 2018*  
   **B.E.**  
@@ -36,7 +36,7 @@ His research interests include *multi-modal foundation model, physical world mod
 [<span style="color:rgb(64,69,72)">Work Experience</span>](#work-experience)
 ======
 * *Sep. 2025 - present*  
-  **Research Engineer**  
+  **Senior Research Engineer, Technical Lead**  
   AI Research, Applied Intuition
 * *Dec. 2024 - Aug. 2025*  
   **Machine Learning Engineer**  
@@ -59,18 +59,6 @@ His research interests include *multi-modal foundation model, physical world mod
 <p>* Equal contribution, &dagger; Project lead</p>
 <table>
  <tr>
-    <td><img class="work-img" src="../images/lamo.png"></td>
-    <td width="68%">
-            Bo Jiang, <u>Depu Meng</u>, Yihan Hu, Yichen Xie, Tianshuo Xu, Wei Zhan
-            <br>
-            <strong>LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</strong>
-            <br>
-            <em><i>Arxiv, 2026</i></em>
-            <br>
-            [<a href="https://arxiv.org/abs/2605.23878" target="_blank">Paper</a>] [<a href="https://lamo-ai.github.io/" target="_blank">Project</a>]
-        </td>
- </tr>
- <tr>
     <td><img class="work-img" src="../images/remind.png"></td>
     <td width="68%">
             Tianshuo Xu, Yichen Xie, <u>Depu Meng&dagger;</u>, Chensheng Peng, Quentin Herau, Bo Jiang, Yihan Hu, Wei Zhan
@@ -80,18 +68,24 @@ His research interests include *multi-modal foundation model, physical world mod
             <em><i>Arxiv, 2026</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2605.25333" target="_blank">Paper</a>]
+            [<a href="https://remind-applied.github.io/" target="_blank">Project</a>]
+            [<a href="https://github.com/Applied-Intuition-Open-Source/ReMind" target="_blank">Code</a>]
+            [<a href="https://huggingface.co/AppliedIntuitionResearch/ReMind" target="_blank">Model</a>]
+            [<a href="https://huggingface.co/datasets/AppliedIntuitionResearch/ReMind1M" target="_blank">Dataset</a>]
         </td>
  </tr>
  <tr>
-    <td><img class="work-img" src="../images/urope.png"></td>
+    <td><img class="work-img" src="../images/lamo.png"></td>
     <td width="68%">
-            Yichen Xie, <u>Depu Meng</u>, Chensheng Peng, Yihan Hu, Quentin Herau, Masayoshi Tomizuka, Wei Zhan
+            Bo Jiang, <u>Depu Meng</u>, Yihan Hu, Yichen Xie, Tianshuo Xu, Wei Zhan
             <br>
-            <strong>URoPE: Universal Relative Position Embedding across Geometric Spaces</strong>
+            <strong>LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</strong>
             <br>
             <em><i>Arxiv, 2026</i></em>
             <br>
-            [<a href="https://arxiv.org/abs/2604.18747" target="_blank">Paper</a>] [<a href="https://urope-pe.github.io/" target="_blank">Project</a>]
+            [<a href="https://arxiv.org/abs/2605.23878" target="_blank">Paper</a>]
+            [<a href="https://lamo-ai.github.io/" target="_blank">Project</a>]
+            [<a href="https://github.com/Applied-Intuition-Open-Source/LaMo" target="_blank">Code</a>]
         </td>
  </tr>
  <tr>
@@ -104,6 +98,20 @@ His research interests include *multi-modal foundation model, physical world mod
             <em><i>Arxiv, 2026</i></em>
             <br>
             [<a href="https://arxiv.org/html/2604.03462v1" target="_blank">Paper</a>]
+        </td>
+ </tr>
+ <tr>
+    <td><img class="work-img" src="../images/urope.png"></td>
+    <td width="68%">
+            Yichen Xie, <u>Depu Meng</u>, Chensheng Peng, Yihan Hu, Quentin Herau, Masayoshi Tomizuka, Wei Zhan
+            <br>
+            <strong>URoPE: Universal Relative Position Embedding across Geometric Spaces</strong>
+            <br>
+            <em><i>ECCV, 2026 <b>(Oral)</b></i></em>
+            <br>
+            [<a href="https://arxiv.org/abs/2604.18747" target="_blank">Paper</a>]
+            [<a href="https://urope-pe.github.io/" target="_blank">Project</a>]
+            [<a href="https://github.com/Applied-Intuition-Open-Source/URoPE" target="_blank">Code</a>]
         </td>
  </tr>
  <tr>
@@ -190,7 +198,7 @@ His research interests include *multi-modal foundation model, physical world mod
             <br>
             <em><i>International Conference on Computer Vision (<strong>ICCV</strong>)</i>, 2021</em>
             <br>
-            [<a href="https://arxiv.org/abs/2108.06152" target="_blank">Paper</a>] [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>] [<a href="https://huggingface.co/docs/transformers/main/model_doc/conditional_detr" target="_blank">HuggingFace</a>]
+            [<a href="https://arxiv.org/abs/2108.06152" target="_blank">Paper</a>] [<a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">Code</a>] [<a href="https://huggingface.co/docs/transformers/main/model_doc/conditional_detr" target="_blank">Model</a>]
             <br>
         </td>
  </tr>
