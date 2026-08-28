@@ -12,7 +12,7 @@ redirect_from:
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
-Depu Meng is a Senior Research Engineer and Tech Lead at Applied Intuition, focusing on multimodal foundation model training and physicalworld models.
+Depu Meng is a Senior Research Engineer and Tech Lead at Applied Intuition, focusing on multimodal foundation model training and physical world models.
 He was a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
 He received the Ph. D. degree from University of Science and Technology of China, with a joint-PhD program with Microsoft Research Asia.
 His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) from Microsoft and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/) from USTC, he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/).
