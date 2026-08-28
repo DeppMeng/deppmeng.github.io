@@ -26,11 +26,11 @@ His research interests include *multi-modal foundation model, physical world mod
 * *Sept. 2018 - Jun. 2023*  
   **Ph.D.**  
   School of Information Science and Technology, major in Control Science and Engineering  
-  University of Science and Technology of China - Microsoft Research Asia
+  University of Science and Technology of China - Microsoft Research Asia  
   Supervisor: Dr. Baining Guo and Prof. Houqiang Li
 * *Sept. 2014 - Jun. 2018*  
   **B.E.**  
-  School of the Gifted Young (SCGY), major in Electrical Engineering  
+  School of the Gifted Young, major in Electrical Engineering  
   University of Science and Technology of China
 
 [<span style="color:rgb(64,69,72)">Work Experience</span>](#work-experience)
