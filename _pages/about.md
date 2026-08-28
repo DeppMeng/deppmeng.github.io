@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Depu Meng is a research engineer working on world foundation models for physical AI, multimodal learning, 3D reconstruction, and autonomous driving."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,50 +9,55 @@ redirect_from:
 ---
 
 <head>
-  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/style.css?v=20260827">
 </head>
 
-Depu Meng is a Senior Research Engineer and Tech Lead at Applied Intuition, focusing on multimodal foundation model training and physical world models.
-He was a Post-Doctoral Reseach Fellow at the University of Michigan, working with [Dr. Henry X. Liu](https://traffic.engin.umich.edu/).
-He received the Ph. D. degree from University of Science and Technology of China, with a joint-PhD program with Microsoft Research Asia.
-His Ph. D. advisors are [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/) from Microsoft and [Prof. Houqiang Li](http://staff.ustc.edu.cn/~lihq/en/) from USTC, he was also advised by [Dr. Jingdong Wang](https://jingdongwang2017.github.io/).
-He interned at Microsoft Research Asia during 2017-2018, and 2019-2021.
-Here is his [CV](../files/CV.pdf).
+Depu Meng is a Senior Research Engineer and Technical Lead at Applied Intuition, where he leads world foundation model development for physical AI. His work focuses on omni-modal foundation model training, 3D reconstruction and generation, and multimodal learning.
 
-His research interests include *multi-modal foundation model, physical world model, robotics world foundation model*, etc.
-
-[<span style="color:rgb(64,69,72)">Education</span>](#education)
-======
-* *Sept. 2018 - Jun. 2023*  
-  **Ph.D.**  
-  School of Information Science and Technology, major in Control Science and Engineering  
-  University of Science and Technology of China - Microsoft Research Asia  
-  Supervisor: Dr. Baining Guo and Prof. Houqiang Li
-* *Sept. 2014 - Jun. 2018*  
-  **B.E.**  
-  School of the Gifted Young, major in Electrical Engineering  
-  University of Science and Technology of China
+Previously, he was a Postdoctoral Research Fellow at the University of Michigan. He earned his Ph.D. through a joint program between Microsoft Research Asia and the University of Science and Technology of China. [Download his CV](../files/CV.pdf).
 
 [<span style="color:rgb(64,69,72)">Work Experience</span>](#work-experience)
 ======
 * *Sep. 2025 - present*  
   **Senior Research Engineer, Technical Lead**  
-  AI Research, Applied Intuition
+  AI Research, Applied Intuition  
+  <span class="experience-summary">Lead world foundation model development for physical AI, including omni-modal foundation model training and methods for 3D reconstruction and generation.</span>
 * *Dec. 2024 - Aug. 2025*  
   **Machine Learning Engineer**  
-  AI Research, DiDi Autonomous Driving
-* *Apr. 2022 - Dec. 2024*  
-  **Post-Doctoral Research Fellow and Visiting Scholar**  
+  AI Research, DiDi Autonomous Driving  
+  <span class="experience-summary">Developed end-to-end autonomous driving models and 3D reconstruction systems.</span>
+* *Aug. 2023 - Dec. 2024*  
+  **Postdoctoral Research Fellow**  
   Mobility Transformation Lab, University of Michigan  
+  <span class="experience-summary">Conducted traffic safety research and developed a full perception suite spanning object detection, multi-object tracking, sensor fusion, and near-miss and collision identification.</span>
+  Mentor: [Prof. Henry X. Liu](https://traffic.engin.umich.edu/)
+* *Apr. 2022 - Jul. 2023*  
+  **Visiting Scholar**  
+  Mobility Transformation Lab, University of Michigan  
+  <span class="experience-summary">Worked on traffic safety research and roadside perception for connected and automated vehicles.</span>
   Mentor: [Prof. Henry X. Liu](https://traffic.engin.umich.edu/)
 * *Aug. 2021 - Apr. 2022*  
   **Research Intern**  
   Autonomous Delivery Group, Meituan  
+  <span class="experience-summary">Developed joint perception and motion prediction models for autonomous driving.</span>
   Mentor: [Dr. Changqiang Yu](https://yu-changqian.github.io/)
 * *Jul. 2019 - Jul. 2021*, *Jul. 2017 - Jul. 2018*    
   **Research Intern**  
   Visual Computing Group, Microsoft Research Asia  
+  <span class="experience-summary">Researched object detection, Transformer architectures, and self-supervised representation learning.</span>
   Mentor: [Dr. Jingdong Wang](https://jingdongwang2017.github.io/)
+
+[<span style="color:rgb(64,69,72)">Education</span>](#education)
+======
+* *Sept. 2018 - Jun. 2023*  
+  **Ph.D.**  
+  Control Science and Engineering  
+  Joint Ph.D. Program, Microsoft Research Asia - University of Science and Technology of China  
+  Supervisor: Dr. Baining Guo and Prof. Houqiang Li
+* *Sept. 2014 - Jun. 2018*  
+  **B.E.**  
+  School of the Gifted Young, major in Electrical Engineering  
+  University of Science and Technology of China
 
 [<span style="color:rgb(64,69,72)">Selected Publications</span>](#publications)
 ======
@@ -65,7 +70,7 @@ His research interests include *multi-modal foundation model, physical world mod
             <br>
             <strong>Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution</strong>
             <br>
-            <em><i>Arxiv, 2026</i></em>
+            <em><i>arXiv, 2026</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2605.25333" target="_blank">Paper</a>]
             [<a href="https://remind-applied.github.io/" target="_blank">Project</a>]
@@ -81,7 +86,7 @@ His research interests include *multi-modal foundation model, physical world mod
             <br>
             <strong>LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</strong>
             <br>
-            <em><i>Arxiv, 2026</i></em>
+            <em><i>arXiv, 2026</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2605.23878" target="_blank">Paper</a>]
             [<a href="https://lamo-ai.github.io/" target="_blank">Project</a>]
@@ -95,7 +100,7 @@ His research interests include *multi-modal foundation model, physical world mod
             <br>
             <strong>SpectralSplat: Appearance-Disentangled Feed-Forward Gaussian Splatting for Driving Scenes</strong>
             <br>
-            <em><i>Arxiv, 2026</i></em>
+            <em><i>arXiv, 2026</i></em>
             <br>
             [<a href="https://arxiv.org/html/2604.03462v1" target="_blank">Paper</a>]
         </td>
@@ -177,19 +182,6 @@ His research interests include *multi-modal foundation model, physical world mod
         </td>
  </tr>
  <tr>
-    <td><img class="work-img" src="../images/CORE.png"></td>
-    <td width="68%">
-            Yunsheng Ni, <u>Depu Meng</u>, Changqian Yu, Chengbin Quan, Dongchun Ren, Youjian Zhao
-            <br>
-            <strong>CORE: COnsistent REpresentation Learning for Face Forgery Detection</strong>
-            <br>
-            <em><i>CVPR Workshop on Media Forensics (<strong>CVPR Workshop</strong>)</i>, 2022</em>
-            <br>
-            [<a href="https://arxiv.org/abs/2206.02749" target="_blank">Paper</a>] [<a href="https://github.com/niyunsheng/CORE" target="_blank">Code</a>]
-            <br>
-        </td>
- </tr>
- <tr>
     <td><img class="work-img" src="../images/conddetr.png"></td>
     <td width="68%">
             <u>Depu Meng</u>*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun and Jingdong Wang (*: Equal Contribution)
@@ -202,19 +194,6 @@ His research interests include *multi-modal foundation model, physical world mod
             <br>
         </td>
  </tr>
- <tr>
-    <td><img class="work-img" src="../images/conic.png"></td>
-    <td width="68%">
-            <u>Depu Meng</u>, Zigang Geng, Zhirong Wu, Bin Xiao, Houqiang Li and Jingdong Wang
-            <br>
-            <strong>Consistent Instance Classification for Unsupervised Representation Learning</strong>
-            <br>
-            <em><i>ICCV Workshop: Self-supervised Learning for Next-Generation Industry-level Autonomous Driving (<strong>ICCV Workshop</strong>)</i>, 2021</em>
-            <br>
-            [<a href="https://sslad2021.github.io/files/2.pdf" target="_blank">Paper</a>]
-            <br>
-        </td>
- </tr>
  <!-- <tr>
     <td><img class="work-img" src="../images/bottomuppose.png"></td>
     <td width="68%">
@@ -222,27 +201,15 @@ His research interests include *multi-modal foundation model, physical world mod
             <br>
             <strong>Bottom-Up Human Pose Estimation by Ranking Heatmap-Guided Adaptive Keypoint Estimates</strong>
             <br>
-            <em><i>Arxiv</i>, 2020</em>
+            <em><i>arXiv</i>, 2020</em>
             <br>
             [<a href="https://arxiv.org/abs/2006.15480" target="_blank">Paper</a>]
             <br>
         </td>
  </tr> -->
- <tr>
-    <td><img class="work-img" src="../images/mergeandrun.png"></td>
-    <td width="68%">
-            Liming Zhao, Mingjie Li, <u>Depu Meng</u>, Xi Li, Zhaoxiang Zhang, Yueting Zhuang, Zhuowen Tu, Jingdong Wang
-            <br>
-            <strong>Deep Convolutional Neural Networks with Merge-and-Run Mappings</strong>
-            <br>
-            <em><i>International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>)</i>, 2018</em>
-            <br>
-            [<a href="https://www.ijcai.org/Proceedings/2018/0440.pdf" target="_blank">Paper</a>] [<a href="https://github.com/zlmzju/fusenet" target="_blank">Code</a>]
-            <br></td>
- </tr>
 </table>
 
 [<span style="color:rgb(64,69,72)">Services</span>](#services)
 ======
 * Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ACM MM, IROS 
-* Journal Reviewer: IJCV, IEEE T-IV, IEEE T-MM, IEEE T-CSVT, Neuralcomputing, Pattern Recognition
+* Journal Reviewer: IJCV, IEEE T-IV, IEEE T-MM, IEEE T-CSVT, Neurocomputing, Pattern Recognition
