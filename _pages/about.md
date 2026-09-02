@@ -112,7 +112,7 @@ Previously, he was a Postdoctoral Research Fellow at the University of Michigan.
             <br>
             <strong>URoPE: Universal Relative Position Embedding across Geometric Spaces</strong>
             <br>
-            <em><i>ECCV, 2026 <b>(Oral)</b></i></em>
+            <em><i>ECCV, 2026 <b>(Spotlight)</b></i></em>
             <br>
             [<a href="https://arxiv.org/abs/2604.18747" target="_blank">Paper</a>]
             [<a href="https://urope-pe.github.io/" target="_blank">Project</a>]
