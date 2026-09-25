@@ -70,7 +70,7 @@ Previously, he was a Postdoctoral Research Fellow at the University of Michigan.
             <br>
             <strong>Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution</strong>
             <br>
-            <em><i>arXiv, 2026</i></em>
+            <em><i>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2605.25333" target="_blank">Paper</a>]
             [<a href="https://remind-applied.github.io/" target="_blank">Project</a>]
@@ -86,7 +86,7 @@ Previously, he was a Postdoctoral Research Fellow at the University of Michigan.
             <br>
             <strong>LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</strong>
             <br>
-            <em><i>arXiv, 2026</i></em>
+            <em><i>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</i></em>
             <br>
             [<a href="https://arxiv.org/abs/2605.23878" target="_blank">Paper</a>]
             [<a href="https://lamo-ai.github.io/" target="_blank">Project</a>]
