@@ -64,7 +64,7 @@ Previously, he was a Postdoctoral Research Fellow at the University of Michigan.
 <p>* Equal contribution, &dagger; Project lead</p>
 <table>
  <tr>
-    <td><img class="work-img" src="../images/strike.jpg" alt="STRIKE visual state-transition modeling teaser" loading="lazy" style="object-fit: contain;"></td>
+    <td><img class="work-img" src="../images/strike-teaser.png" alt="STRIKE paper teaser: learned state transitions for physically consistent video generation" loading="lazy" style="object-fit: contain;"></td>
     <td width="68%">
             Wenbin Teng, Tianshuo Xu, <u>Depu Meng&dagger;</u>, Yuelei Li, Quentin Herau, Yihan Hu, Yajie Zhao, Wei Zhan
             <br>
@@ -77,7 +77,7 @@ Previously, he was a Postdoctoral Research Fellow at the University of Michigan.
         </td>
  </tr>
  <tr>
-    <td><img class="work-img" src="../images/s2tok.jpg" alt="S2Tok streaming 3D Gaussian reconstruction teaser" loading="lazy" style="object-fit: contain;"></td>
+    <td><img class="work-img" src="../images/s2tok-teaser.jpg" alt="S2Tok paper teaser: streaming 3D reconstruction across outdoor, indoor, and AI-generated scenes" loading="lazy" style="object-fit: contain;"></td>
     <td width="68%">
             Fang Li, Jiraphon Yenphraphai, Quentin Herau, <u>Depu Meng</u>, Yihan Hu, Tianshuo Xu, Narendra Ahuja, Wei Zhan
             <br>
@@ -90,7 +90,7 @@ Previously, he was a Postdoctoral Research Fellow at the University of Michigan.
         </td>
  </tr>
  <tr>
-    <td><img class="work-img" src="../images/building-rome.jpg" alt="Building Rome single-image 3D scene generation teaser" loading="lazy" style="object-fit: contain;"></td>
+    <td><img class="work-img" src="../images/building-rome-teaser.png" alt="Building Rome paper teaser: complete 3D scene meshes generated from single images" loading="lazy" style="object-fit: contain;"></td>
     <td width="68%">
             Jiraphon Yenphraphai, Fang Li, Tianshuo Xu, <u>Depu Meng</u>, Quentin Herau, Yihan Hu, Raymond A. Yeh, Wei Zhan
             <br>
